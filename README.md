@@ -11,7 +11,3 @@ Aplicação web para importação e processamento de arquivos Excel, geração d
 - **Filas**: Laravel Queue (para processamento assíncrono)
 - **Autenticação**: JWT
 - **Containerização**: Docker / Docker Compose
-
----
-
-## Estrutura do Projeto
